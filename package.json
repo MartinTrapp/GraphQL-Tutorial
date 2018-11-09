@@ -1,0 +1,19 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "graphql tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinTrapp/GraphQL-Tutorial.git"
+  },
+  "author": "Martin Trapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinTrapp/GraphQL-Tutorial/issues"
+  },
+  "homepage": "https://github.com/MartinTrapp/GraphQL-Tutorial#readme"
+}
